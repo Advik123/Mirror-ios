@@ -1,0 +1,7 @@
+// Copy this file to APIKeys.swift and replace the placeholders with your keys.
+//   cp APIKeys.swift.example APIKeys.swift
+
+enum APIKeys {
+    static let gemini = "YOUR_GEMINI_API_KEY"
+    static let perfectCorp = "YOUR_PERFECT_CORP_API_KEY"
+}
